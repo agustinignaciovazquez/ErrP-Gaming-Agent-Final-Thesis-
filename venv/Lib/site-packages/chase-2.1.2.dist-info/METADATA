@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: chase
+Version: 2.1.2
+Summary: Python Library for Chase Paymentech
+Home-page: https://github.com/dave2328/chase
+Author: James Maxwell
+Author-email: james@dxetech.com
+License: UNKNOWN
+Keywords: payment
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+Requires-Dist: requests
+
+A Python Library For Chase Paymentech API
+=========================================
+
+A Python Library For Chase Paymentech API
+
+
+
